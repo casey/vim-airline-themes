@@ -31,9 +31,9 @@ let s:cterm07 = 15
 let s:cterm08 = 1
 let s:cterm09 = 16
 let s:cterm0A = 3
-let s:cterm0B = 2
+let s:cterm0B = 4 " 2 -> 4 (green to blue)
 let s:cterm0C = 6
-let s:cterm0D = 4
+let s:cterm0D = 6 " 4 -> 6 (blue to teal)
 let s:cterm0E = 5
 let s:cterm0F = 17
 
